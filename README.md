@@ -1,7 +1,5 @@
 # Low-code model tuning in PyCaret - a python-based package.
 
-![Logo.jpeg](Logo.jpeg)
-
 ## About this package
 
 This newly created light weight solution that will invoke the python class that contains the core logic of low-code machine-learning library to evaluate the best model for your solutions. This application developed using pandas & other useful libraries. This project is for the advanced Python developer & Data Science Newbi's.
